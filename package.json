@@ -1,0 +1,28 @@
+{
+  "name": "crox.js",
+  "version": "1.0.0",
+  "description": "x cross to anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/crox.js.git"
+  },
+  "keywords": [
+    "crox",
+    "cross",
+    "x"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/crox.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/crox.js#readme",
+  "dependencies": {
+    "lisa.utils": "^2.4.0",
+    "marry.js": "^1.0.0"
+  }
+}
